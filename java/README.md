@@ -1,2 +1,2 @@
 # StudiesInJava
- Repositório para documentar meus estudos em java
+Repository for my studies in java
