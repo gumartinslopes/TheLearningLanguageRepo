@@ -5,5 +5,5 @@ This is the repository i use when I am learning a new programming language.
  - [x] C.
  - [x] C++.
  - [x] Java.
- - [x] Nest Js.
+ - [x] TypeScript.
  - [ ] Web Development.
